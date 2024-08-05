@@ -3,5 +3,10 @@
 @tailwind utilities;
 
 body {
-  background-image: url("bg.webp");
+  @apply overflow-hidden;
+  @apply select-none;
+  @apply bg-cover;
+  @apply bg-zinc-800;
+  @apply bg-center;
+  background-image: url("/bg.webp");
 }
