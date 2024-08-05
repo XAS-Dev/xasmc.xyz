@@ -4,7 +4,7 @@
     class="bg h-dvh w-dvw overflow-hidden bg-black bg-opacity-80 flex items-center justify-center flex-col"
   >
     <span class="text-zinc-400 text-4xl">XAS Minecraft Server</span>
-    <span class="text-5xl mt-20">🫵😡<br /></span>
+    <span class="text-5xl mt-20">🫵😡</span>
     <span class="text-zinc-400 text-2xl">给我玩 Minecraft </span>
     <span
       class="text-zinc-400 mt-20 border-2 ml-2 mr-2 p-1 border-zinc-600 inline-block w-40 text-center rounded-full hover:bg-slate-600 transition-colors duration-500 transform-gpu"
