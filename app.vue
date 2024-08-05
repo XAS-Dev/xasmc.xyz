@@ -10,6 +10,7 @@
       class="text-zinc-400 mt-20 border-2 ml-2 mr-2 p-1 border-zinc-600 inline-block w-40 text-center rounded-full hover:bg-slate-600 transition-colors duration-500 transform-gpu"
       ><a href="https://qm.qq.com/q/3hQeLmSyNW">加入服务器QQ群</a></span
     >
+    <span class="text-zinc-700 text-xs mt-1">无法跳转? 加群513213647</span>
     <span
       class="footer fixed bottom-4 text-lg text-zinc-400 font-thin text-center"
       ><a href="https://beian.miit.gov.cn/" target="_blank"
