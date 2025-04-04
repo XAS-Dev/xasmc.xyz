@@ -8,7 +8,7 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "sync": "bash -c \"rsync -avz dist/* xiyang6666@192.168.21.200:/data/nginx/html/xasmc.xyz/\""
+    "sync": "bash -c \"rsync -avz dist/* xiyang6666@nas.lan:/data/caddy/site/xasmc.xyz/\""
   },
   "dependencies": {
     "nuxt": "^3.16.2",
